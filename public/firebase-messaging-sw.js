@@ -8,13 +8,14 @@ importScripts('https://www.gstatic.com/firebasejs/8.3.2/firebase-messaging.js');
 Initialize the Firebase app in the service worker by passing in the messagingSenderId.
 */
 firebase.initializeApp({
-    apiKey: "AIzaSyDWZLoW0gIKxmL5VWfR-XCeBI5FB0OsBRM",
-    authDomain: "test-e41c2.firebaseapp.com",
-    databaseURL: "https://test-e41c2-default-rtdb.firebaseio.com",
-    projectId: "test-e41c2",
-    storageBucket: "test-e41c2.appspot.com",
-    messagingSenderId: "1059711446709",
-    appId: "1:1059711446709:web:80fc3a28bdb1b3def618fc"
+    apiKey: "AIzaSyCYu7B4Az5BBuI55Lz34HV4J9qitCadjkM",
+    authDomain: "garibook-9149d.firebaseapp.com",
+    databaseURL: "https://garibook-9149d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    projectId: "garibook-9149d",
+    storageBucket: "garibook-9149d.appspot.com",
+    messagingSenderId: "937015332627",
+    appId: "1:937015332627:web:b8f86e2bd264c775a214e6",
+    measurementId: "G-HHJYCNHTPF"
 });
 
 

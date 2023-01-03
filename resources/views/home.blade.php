@@ -41,14 +41,14 @@
 
 <script>
     var firebaseConfig = {
-        apiKey: 'api-key',
-        authDomain: 'project-id.firebaseapp.com',
-        databaseURL: 'https://project-id.firebaseio.com',
-        projectId: 'project-id',
-        storageBucket: 'project-id.appspot.com',
-        messagingSenderId: 'sender-id',
-        appId: 'app-id',
-        measurementId: 'G-measurement-id',
+        apiKey: "AIzaSyCYu7B4Az5BBuI55Lz34HV4J9qitCadjkM",
+        authDomain: "garibook-9149d.firebaseapp.com",
+        databaseURL: "https://garibook-9149d-default-rtdb.asia-southeast1.firebasedatabase.app",
+        projectId: "garibook-9149d",
+        storageBucket: "garibook-9149d.appspot.com",
+        messagingSenderId: "937015332627",
+        appId: "1:937015332627:web:b8f86e2bd264c775a214e6",
+        measurementId: "G-HHJYCNHTPF"
     };
 
     firebase.initializeApp(firebaseConfig);
